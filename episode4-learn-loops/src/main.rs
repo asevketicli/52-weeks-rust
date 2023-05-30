@@ -1,13 +1,14 @@
-// Looping fun
+extern crate random_choice;
+use self::random_choice::random_choice;
 
-use rand::Rng;
-
-// Broken code fix: learn to convert to iterator
 fn main() {
-    //let a = [10, 20, 30, 40, 50];
-    let mut rng = rand::thread_rng();
+    let samples = vec!["hi", "this", "is", "a", "test!"];
+    let weights: Vec<f64> = vec![5.6, 7.8, 9.7, 1.1, 2.0];
 
-    for element in rng {
-        println!("the value is: {element}");
+    let number_choices = 100;
+    let choices = random_choice().random_choice_f64(&samples, &weights, number_choices);
+
+    for choice in choices {
+        println!("{}, ", choice);
     }
 }

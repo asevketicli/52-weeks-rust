@@ -17,6 +17,10 @@ Trying out Rust
 * Do you have it? `cargo --version`?
 * `cargo new hello_cargo && cd hello_cargo`
 
+## Episode 6
+
+Fixed random choices and started [ownership](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html)
+
 ## Episode 5
 
 Fix this CODE!!!
