@@ -5,6 +5,7 @@ Trying out Rust
 
 * [Install](https://doc.rust-lang.org/book/ch01-01-installation.html)
 * Pro-tip, run `rustup update` to update your installation.
+* Check version do this: `rustc --version`
 
 
 ## Episode 3
