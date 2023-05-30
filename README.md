@@ -10,12 +10,22 @@ Trying out Rust
 ## How the check do I compile?
 
 * `rustc myfunc.rs`in this case, the `<yourfile>.rs` is what is compiled.
-* Next you run it: ./myfunc
+* Next you run it: ./myfunc.rs
+
+## How do I use Cargo?
+
+* Do you have it? `cargo --version`?
+* `cargo new hello_cargo && cd hello_cargo`
+
+
 
 ## Episode 3
+Make a function:
 
+* `cargo new hello_func && cd hello_func`
+* `cargo build`
 
-
+## Episode 2
 ## Trying to learn Rust
 
 Quick example:
