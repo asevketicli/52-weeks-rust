@@ -22,7 +22,20 @@ Trying out Rust
 ## Episode 3
 Make a function:
 
-* `cargo new hello_func && cd hello_func` (put some code in there like this)
+* `cargo new hello_func && cd hello_func` (put some code in src/main like this)
+ 
+ ```
+ //function 1
+fn main() {
+    println!("Hello, world!");
+    another_function();
+}
+
+//function 2
+fn another_function() {
+    println!("Another function.");
+}
+``` 
 * `cargo build`
 
 ## Episode 2
