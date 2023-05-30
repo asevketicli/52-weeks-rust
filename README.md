@@ -1,10 +1,11 @@
 # 52-weeks-rust
 Trying out Rust
 
+## Episode 3
 
 
 
-# Trying to learn Rust
+## Trying to learn Rust
 
 Quick example:
 ``` rust
