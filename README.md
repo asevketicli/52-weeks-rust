@@ -4,6 +4,7 @@ Trying out Rust
 ## How to Install
 
 * [Install](https://doc.rust-lang.org/book/ch01-01-installation.html)
+* Pro-tip, run `rustup update` to update your installation.
 
 
 ## Episode 3
