@@ -7,6 +7,10 @@ Trying out Rust
 * Pro-tip, run `rustup update` to update your installation.
 * Check version do this: `rustc --version`
 
+## How the check do I compile?
+
+* `rustc myfunc.rs`in this case, the `<yourfile>.rs` is what is compiled.
+* Next you run it: ./myfunc
 
 ## Episode 3
 
