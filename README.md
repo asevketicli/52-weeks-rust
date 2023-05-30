@@ -1,6 +1,11 @@
 # 52-weeks-rust
 Trying out Rust
 
+## How to Install
+
+* [Install](https://doc.rust-lang.org/book/ch01-01-installation.html)
+
+
 ## Episode 3
 
 
