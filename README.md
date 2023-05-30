@@ -22,7 +22,7 @@ Trying out Rust
 ## Episode 3
 Make a function:
 
-* `cargo new hello_func && cd hello_func`
+* `cargo new hello_func && cd hello_func` (put some code in there like this)
 * `cargo build`
 
 ## Episode 2
